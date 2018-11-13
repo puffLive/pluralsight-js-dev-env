@@ -20,8 +20,8 @@ describe('Our first test', () => {
   });
 });
 
-describe('Should say Hello', () => {
+describe('Should have h1 that says Users', () => {
     it('should pass', () => {
-      expect(h1).to.equal('Hello World!');
+      expect(h1).to.equal('Users');
     });
 });
