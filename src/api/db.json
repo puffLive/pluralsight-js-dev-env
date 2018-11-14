@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 96500975,
+      "firstName": "Candelario",
+      "lastName": "Krajcik",
+      "email": "Noemi76@yahoo.com"
+    },
+    {
+      "id": 37945883,
+      "firstName": "Josefina",
+      "lastName": "Eichmann",
+      "email": "Rylee_Lind77@hotmail.com"
+    },
+    {
+      "id": 37607422,
+      "firstName": "Nicolas",
+      "lastName": "Altenwerth",
+      "email": "Carmen_Fahey41@gmail.com"
+    },
+    {
+      "id": 19551219,
+      "firstName": "Natasha",
+      "lastName": "Harber",
+      "email": "Kristofer.Beer43@hotmail.com"
+    }
+  ]
+}
